@@ -11,4 +11,8 @@
 ### >> Upload the keys to the google drive 
 ### >> Choose the file locations appropriately and run the code 
 
+### Used multiple hyper parameters and provided detailed comments in colab with various experiments. 
+
+
+
 
